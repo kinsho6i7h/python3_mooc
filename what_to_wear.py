@@ -55,7 +55,7 @@ elif temp <= 5:
     print("I think gloves are in order")
     if rain == "yes":
         print("Don't forget your umbrella!")
-        
+
 """
 Model Code
 ----------
@@ -84,5 +84,5 @@ if temperature < 6:
 if rain == "yes":
 
     print("Don't forget your umbrella!")
-    
+
 """
